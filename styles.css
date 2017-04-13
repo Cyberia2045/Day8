@@ -1,0 +1,29 @@
+body {
+	font-family: "Futura";
+	color:white;
+	background-color: teal;
+}
+
+h1 {
+	text-align: center;
+	padding-top: 10px;
+}
+
+.dom {
+	color:firebrick;
+}
+
+.main-container {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.button {
+	border: 3px solid darkred;
+	border-radius: 10%;
+	width:300px;
+	text-align: center;
+	padding:10px;
+	background-color: forestgreen;
+}
