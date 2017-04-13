@@ -27,3 +27,23 @@ h1 {
 	padding:10px;
 	background-color: forestgreen;
 }
+
+.textBox {
+	border: 3px solid darkred;
+	border-radius: 10%;
+	width:200px;
+	height:200px;
+	text-align: center;
+	padding:10px;
+	background-color: forestgreen;
+}
+
+
+
+
+
+
+
+
+
+
